@@ -17,4 +17,5 @@ let
 in {
   "tofu.age".publicKeys = user_keys ++ system_keys;
   "minio.age".publicKeys = user_keys ++ system_keys;
+  "smb-pwnyboy.age".publicKeys = user_keys ++ system_keys;
 }
